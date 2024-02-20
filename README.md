@@ -9,3 +9,4 @@ and a Streamlit front end, that will accept user inputs and display results.
 The front end, and API for this project are trivial and will not be discussed in detail.
 
 A notebook outlining the prompt and content generation process can be found here:
+[Text_Generation_Notebook](https://github.com/quaneh/pharma-marketing-generator/tree/main/notebooks/TextGeneration.ipynb)
