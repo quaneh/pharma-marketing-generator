@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+marshmallow = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+python-dotenv = "*"
+python-jose = "*"
+flask-cors = "*"
+six = "*"
+langchain = "*"
+openai = "*"
+flask-restful = "*"
+flask-swagger = "*"
+flask-swagger-ui = "*"
+apispec = "*"
+apispec-webframeworks = "*"
+pinecone-client = {extras = ["grpc"], version = "*"}
+tiktoken = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
